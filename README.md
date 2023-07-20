@@ -14,7 +14,7 @@
 ## Data Analysis
 
 1. List the employee number, last name, first name, sex, and salary of each employee.
-![image]()
+![image](https://github.com/kadyepley/sql-challenge/blob/main/images/data_analysis_1.jpg)
 1. List the first name, last name, and hire date for the employees who were hired in 1986.
 
 1. List the manager of each department along with their department number, department name, employee number, last name, and first name.
